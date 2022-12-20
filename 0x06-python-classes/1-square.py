@@ -1,6 +1,13 @@
 #!/usr/bin/python3
-class Square:
-    """Defines a square"""
+""" Working on oop with python """
+
+
+class Square():
+    """Class representing a square"""
+
     def __init__(self, size):
-        """Initialises the data"""
+        """ initialize the class
+        Args:
+           size (int): size of the square
+        """
         self.__size = size
