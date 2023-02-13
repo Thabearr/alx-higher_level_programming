@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python34
 """ Module that contains class Rectangle,
 inheritance of class Base
 """
